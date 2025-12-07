@@ -26,13 +26,13 @@
 ### 第二次作业
 
 #### `b_plus_tree_delete_test`
-![](project2-submission/assets/屏幕截图 2025-12-04 180020.png)
+![](project2-submission/assets/2025-12-04 180020.png)
 
 #### `b_plus_tree_concurrent_test`
-![](project2-submission/assets/屏幕截图 2025-12-04 180025.png)
+![](project2-submission/assets/2025-12-04 180025.png)
 
 #### `b_plus_tree_insert_test`
-![](project2-submission/assets/屏幕截图 2025-12-04 180038.png)
+![](project2-submission/assets/2025-12-04 180038.png)
 
 #### B+树结构示例
 ![](project2-submission/assets/72436fc4496c05dead4fe3cdafdd14de.png)
